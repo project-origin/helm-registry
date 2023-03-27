@@ -2,6 +2,27 @@ apiVersion: v1
 entries:
   project-origin-stack:
   - annotations:
+      artifacthub.io/changes: |
+        - kind: fixed
+          description: bug where chart was undeployable
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/registry
+      artifacthub.io/operator: "false"
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 0.1.0-alpha.17
+    created: "2023-03-27T14:19:07.934609355Z"
+    description: A helm chart for deploying the Project Origin stack
+    digest: 93470839d993a9b3abd54ea0dff1e8407f8f2ba991adeea83a62854e94e0ee09
+    name: project-origin-stack
+    type: application
+    urls:
+    - https://github.com/project-origin/registry/releases/download/chart-v0.1.0-alpha.3/project-origin-stack-0.1.0-alpha.3.tgz
+    version: 0.1.0-alpha.3
+  - annotations:
       artifacthub.io/containsSecurityUpdates: "false"
       artifacthub.io/licence: Apache-2.0
       artifacthub.io/links: |
@@ -19,4 +40,4 @@ entries:
     urls:
     - https://github.com/project-origin/registry/releases/download/chart-v0.1.0-alpha.2/project-origin-stack-0.1.0-alpha.2.tgz
     version: 0.1.0-alpha.2
-generated: "2023-03-27T09:32:33.888610987Z"
+generated: "2023-03-27T14:19:07.933920568Z"
