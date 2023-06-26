@@ -11,10 +11,10 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.2.0-rc.14
-    created: "2023-06-26T13:18:52.578166864Z"
+    created: "2023-06-26T13:44:26.516940016Z"
     description: A helm chart for deploying the Project Origin Registry, includes
       the registry, verifiers and concordium node.
-    digest: 4e79613a1a864ec4f33cb639b8b4ac8806d3ba1f37a05d6ef1d2e8f53e89a704
+    digest: 8edcf8b14fe1cc66a8ae436b6378de2258ce9df052a925e45c7343cf31844ce5
     name: project-origin-registry
     type: application
     urls:
@@ -80,4 +80,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/chart-v0.1.0-rc.1/project-origin-wallet-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2023-06-26T13:18:52.577443565Z"
+generated: "2023-06-26T13:44:26.516123893Z"
