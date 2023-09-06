@@ -167,9 +167,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.2.0-rc.13
-    created: "2023-09-06T10:24:31.557655604Z"
+    created: "2023-09-06T10:33:40.101748891Z"
     description: A helm chart for deploying the Project Origin Wallet
-    digest: 90ddf709d557b4f19c3ed5e9e347d4125c578e2de4af42ac547514ce12346dfd
+    digest: aa614d10f8dff57ac5d18b9ffe259825dee39974da541b0a33d1fdfaa6b0d149
     name: project-origin-wallet
     type: application
     urls:
@@ -589,4 +589,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/chart-v0.1.0-rc.1/project-origin-wallet-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2023-09-06T10:24:31.557117284Z"
+generated: "2023-09-06T10:33:40.101172173Z"
