@@ -468,6 +468,24 @@ entries:
       artifacthub.io/operator: "false"
       artifacthub.io/prerelease: "false"
     apiVersion: v2
+    appVersion: 1.5.0
+    created: "2024-07-18T08:48:37.618081804Z"
+    description: A helm chart for deploying the Project Origin Wallet
+    digest: 1a1faa088c20bc512dde55dbec595cb394f316d711d3440934eac87bf68d6525
+    name: project-origin-wallet
+    type: application
+    urls:
+    - https://github.com/project-origin/wallet/releases/download/v1.5.0/project-origin-wallet-1.5.0.tgz
+    version: 1.5.0
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/wallet
+      artifacthub.io/operator: "false"
+      artifacthub.io/prerelease: "false"
+    apiVersion: v2
     appVersion: 1.4.0
     created: "2024-07-15T12:48:53.761083554Z"
     description: A helm chart for deploying the Project Origin Wallet
@@ -1341,4 +1359,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/chart-v0.1.0-rc.1/project-origin-wallet-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2024-07-15T12:48:53.760407408Z"
+generated: "2024-07-18T08:48:37.61693293Z"
