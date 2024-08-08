@@ -449,6 +449,24 @@ entries:
       artifacthub.io/operator: "false"
       artifacthub.io/prerelease: "false"
     apiVersion: v2
+    appVersion: 1.1.1-prerelease-7-bracketing
+    created: "2024-08-08T19:38:10.142608824Z"
+    description: A helm chart for deploying the Project Origin Stamp
+    digest: f6c3e21437ddcd3938a761bf3b66e3baf221e15074207574c6c684e876f85d3d
+    name: project-origin-stamp
+    type: application
+    urls:
+    - https://github.com/project-origin/stamp/releases/download/v1.1.1-prerelease-7-bracketing/project-origin-stamp-1.1.1-prerelease-7-bracketing.tgz
+    version: 1.1.1-prerelease-7-bracketing
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/stamp
+      artifacthub.io/operator: "false"
+      artifacthub.io/prerelease: "false"
+    apiVersion: v2
     appVersion: 1.1.1-prerelease-6
     created: "2024-08-07T10:01:08.960329634Z"
     description: A helm chart for deploying the Project Origin Stamp
@@ -1539,4 +1557,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/chart-v0.1.0-rc.1/project-origin-wallet-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2024-08-07T12:31:01.846505901Z"
+generated: "2024-08-08T19:38:10.142062303Z"
