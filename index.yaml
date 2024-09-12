@@ -8,6 +8,22 @@ entries:
           url: https://github.com/project-origin/concordium-chart
       artifacthub.io/operator: "false"
     apiVersion: v2
+    appVersion: 1.0.0-rc.4
+    created: "2024-09-12T12:22:02.109453433Z"
+    description: A helm chart for deploying a Concordium node.
+    digest: 09c6de651306b3ae05c78e90cb1cded66247cb62cf389cf333253da607fc2efb
+    name: concordium
+    type: application
+    urls:
+    - https://github.com/project-origin/concordium-chart/releases/download/v1.0.0-rc.4/concordium-1.0.0-rc.4.tgz
+    version: 1.0.0-rc.4
+  - annotations:
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/concordium-chart
+      artifacthub.io/operator: "false"
+    apiVersion: v2
     appVersion: 1.0.0-rc.2
     created: "2024-09-12T11:59:28.11019218Z"
     description: A helm chart for deploying a Concordium node.
@@ -2029,4 +2045,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/chart-v0.1.0-rc.1/project-origin-wallet-0.1.0-rc.1.tgz
     version: 0.1.0-rc.1
-generated: "2024-09-12T11:59:28.109250158Z"
+generated: "2024-09-12T12:22:02.109017067Z"
