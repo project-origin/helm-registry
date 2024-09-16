@@ -150,7 +150,7 @@ entries:
     name: project-origin-registry
     type: application
     urls:
-    - https://github.com/project-origin/registry/releases/download/v2.0.0/project-origin-registry-.tgz
+    - https://github.com/project-origin/registry/releases/download/v2.0.0/project-origin-registry-2.0.0.tgz
     version: 2.0.0
   - annotations:
       artifacthub.io/licence: Apache-2.0
