@@ -9,6 +9,22 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 6.3.1-0
+    created: "2024-10-03T12:51:39.187873309Z"
+    description: A helm chart for deploying a Concordium node.
+    digest: 9f68e6062042e604b3687170c54ea32e6f9b1db67c0b90ca5a88d2fa6ec72eee
+    name: concordium
+    type: application
+    urls:
+    - https://github.com/project-origin/concordium-chart/releases/download/v1.1.1/concordium-1.1.1.tgz
+    version: 1.1.1
+  - annotations:
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/concordium-chart
+      artifacthub.io/operator: "false"
+    apiVersion: v2
+    appVersion: 6.3.1-0
     created: "2024-09-16T10:20:15.241083628Z"
     description: A helm chart for deploying a Concordium node.
     digest: a5a06019bad2bb744c62d8c3d1a20d987fd130e9119bde2f1b75fe0b5acc11c6
@@ -2193,4 +2209,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2024-10-03T06:13:54.095099217Z"
+generated: "2024-10-03T12:51:39.187407641Z"
