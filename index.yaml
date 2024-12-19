@@ -171,6 +171,23 @@ entries:
           url: https://github.com/project-origin/chronicler
       artifacthub.io/operator: "false"
     apiVersion: v2
+    appVersion: 1.1.2
+    created: "2024-12-19T13:32:04.0780785Z"
+    description: A helm chart for deploying the Project Origin Chronicler
+    digest: df7ef958b428cb25019801908c8b815da4d808ef5c1f4d7cfd1fae1e8b64ebaf
+    name: project-origin-chronicler
+    type: application
+    urls:
+    - https://github.com/project-origin/chronicler/releases/download/v1.1.2/project-origin-chronicler-1.1.2.tgz
+    version: 1.1.2
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/chronicler
+      artifacthub.io/operator: "false"
+    apiVersion: v2
     appVersion: 1.1.1
     created: "2024-12-10T13:25:01.577666644Z"
     description: A helm chart for deploying the Project Origin Chronicler
@@ -2818,4 +2835,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2024-12-19T12:54:58.381631615Z"
+generated: "2024-12-19T13:32:04.077497749Z"
