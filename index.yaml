@@ -2487,6 +2487,24 @@ entries:
       artifacthub.io/operator: "false"
       artifacthub.io/prerelease: "false"
     apiVersion: v2
+    appVersion: 1.6.38
+    created: "2025-02-14T14:22:04.685804637Z"
+    description: A helm chart for deploying the Project Origin Vault
+    digest: cc30f972805f60da9abb56f3cb2185445d89c650561c82e9cde5dc3579b2ce5b
+    name: vault
+    type: application
+    urls:
+    - https://github.com/project-origin/wallet/releases/download/v1.6.38/vault-1.6.38.tgz
+    version: 1.6.38
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/Vault
+      artifacthub.io/operator: "false"
+      artifacthub.io/prerelease: "false"
+    apiVersion: v2
     appVersion: 1.6.37
     created: "2025-02-14T09:52:49.771068813Z"
     description: A helm chart for deploying the Project Origin Vault
@@ -3216,4 +3234,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2025-02-14T09:52:49.7703432Z"
+generated: "2025-02-14T14:22:04.685075363Z"
