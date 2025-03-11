@@ -1348,6 +1348,23 @@ entries:
           url: https://github.com/project-origin/verifier_electricity
       artifacthub.io/operator: "false"
     apiVersion: v2
+    appVersion: 3.0.0
+    created: "2025-03-11T13:49:20.966508608Z"
+    description: A helm chart for deploying the Project Origin Verifier for ETT Electricity
+    digest: d5bf420aa39e63e894c262e0c46c6dbbf088d5c9a97994cedbc29e3e4295d277
+    name: project-origin-verifier-electricity
+    type: application
+    urls:
+    - https://github.com/project-origin/verifier_electricity/releases/download/v3.0.0/project-origin-verifier-electricity-3.0.0.tgz
+    version: 3.0.0
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/verifier_electricity
+      artifacthub.io/operator: "false"
+    apiVersion: v2
     appVersion: 1.4.0
     created: "2024-12-09T09:42:15.35445379Z"
     description: A helm chart for deploying the Project Origin Verifier for ETT Electricity
@@ -3314,4 +3331,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2025-03-11T13:44:40.998008639Z"
+generated: "2025-03-11T13:49:20.966015155Z"
