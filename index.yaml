@@ -274,6 +274,28 @@ entries:
           url: https://github.com/project-origin/registry
       artifacthub.io/operator: "false"
     apiVersion: v2
+    appVersion: 3.0.2
+    created: "2025-04-23T11:16:27.75874448Z"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 20.13.0
+    description: A helm chart for deploying the Project Origin Registry, includes
+      the registry, verifiers and concordium node.
+    digest: bcf876603cf77adce1dd9d6114a857b2e2c2652a1c346b61995c4205177b2d2f
+    name: project-origin-registry
+    type: application
+    urls:
+    - https://github.com/project-origin/registry/releases/download/v3.0.2/project-origin-registry-3.0.2.tgz
+    version: 3.0.2
+  - annotations:
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/registry
+      artifacthub.io/operator: "false"
+    apiVersion: v2
     appVersion: 3.0.1
     created: "2025-03-11T19:43:08.834355699Z"
     dependencies:
@@ -3533,4 +3555,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2025-04-12T19:07:02.056397826Z"
+generated: "2025-04-23T11:16:27.751500327Z"
