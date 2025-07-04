@@ -1113,6 +1113,24 @@ entries:
       artifacthub.io/operator: "false"
       artifacthub.io/prerelease: "false"
     apiVersion: v2
+    appVersion: 6.1.5
+    created: "2025-07-04T08:19:14.011571601Z"
+    description: A helm chart for deploying the Project Origin Stamp
+    digest: 3ff50c1e8ba2d16ae231c575fb267e79a134efb2b00f275df6fc4c9ca6499f72
+    name: project-origin-stamp
+    type: application
+    urls:
+    - https://github.com/project-origin/stamp/releases/download/v6.1.5/project-origin-stamp-6.1.5.tgz
+    version: 6.1.5
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/licence: Apache-2.0
+      artifacthub.io/links: |
+        - name: Source Code
+          url: https://github.com/project-origin/stamp
+      artifacthub.io/operator: "false"
+      artifacthub.io/prerelease: "false"
+    apiVersion: v2
     appVersion: 6.1.4
     created: "2025-07-04T06:40:29.904735565Z"
     description: A helm chart for deploying the Project Origin Stamp
@@ -4479,4 +4497,4 @@ entries:
     urls:
     - https://github.com/project-origin/wallet/releases/download/v1.6.0/vault-1.6.0.tgz
     version: 1.6.0
-generated: "2025-07-04T08:15:22.66799618Z"
+generated: "2025-07-04T08:19:14.007425715Z"
